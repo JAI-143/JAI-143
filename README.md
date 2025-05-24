@@ -47,4 +47,4 @@ Feel free to star ⭐, fork 🍴, or contribute to any of my projects. Let's sec
 
 ---
 
-# “Whatever you are, be a good   one.” – **Abraham Lincoln**
+# “Whatever you are, be a good one.” – **Abraham Lincoln**

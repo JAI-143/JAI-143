@@ -40,7 +40,7 @@ I believe in continuous learning and regularly participate in:
 
 ## 🤝 Let's Connect!
 
-* 🔗 LinkedIn : [https://github.com/JAI-143](https://github.com/JAI-143)
+* 🔗 LinkedIn : [https://www.linkedin.com/in/vp-jai/](https://www.linkedin.com/in/vp-jai/)
 * 📧 Email: [jayachandiran9715@gmail.com](mailto:jayachandiran9715@gmail.com)
 
 Feel free to star ⭐, fork 🍴, or contribute to any of my projects. Let's secure the internet together!
